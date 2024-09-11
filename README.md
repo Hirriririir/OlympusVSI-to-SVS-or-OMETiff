@@ -1,5 +1,5 @@
 # OlympusVSI_to_OMETiff
-> Transform OlympusVSI slides to OME-TIFF in batch using QuPath
+> To transform OlympusVSI slides to OME-TIFF in batch using QuPath
 
 We have a VS200 scanner and a online platform cytomine to process slides. This script is for converting OlympusVSI to OME-TIFF, a formate cytomine can process.
 
