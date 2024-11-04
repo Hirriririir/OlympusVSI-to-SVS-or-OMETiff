@@ -1,4 +1,5 @@
-# OlympusVSI_to_OMETiff
+# OlympusVSI to SVS or OMETiff
+
 > To transform OlympusVSI slides to other formates in batch
 
 We have a VS200 scanner and an online platform Cytomine to process slides. These scripts are for converting OlympusVSI to OME-TIFF (QuPath converter.py) or SVS (Slideio converter.py), two formats Cytomine can process.
